@@ -1,0 +1,6 @@
+.idea
+**/target
+**/target/**
+**/resources/application-prod.properties
+logs
+**/logs
